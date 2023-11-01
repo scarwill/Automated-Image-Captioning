@@ -16,4 +16,5 @@ Enhanced user experience by incorporating features like language support, image 
 Demonstrated the system's potential for various applications, including accessibility enhancements, content indexing, and improved image search engines.
 
 Conclusion:
+
 This project in automated image captioning showcases the ability to design, develop, and deploy a state-of-the-art system that bridges computer vision and natural language processing, enabling the generation of meaningful and contextually relevant captions for a diverse range of images, with a focus on user-friendly applications and practical use cases.
